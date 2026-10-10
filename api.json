@@ -37,7 +37,8 @@
         "https://raw.githubusercontent.com/FifzzSENZE/Master-Proxy/refs/heads/master/proxies/https.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/anonymous-proxylist/http.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/proxylist/http.txt",
-        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/http.txt"
+        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/http.txt",
+        "https://rcloak.com/api/proxies/raw?protocol=all"
             ],
     "socks4": [
         "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/socks4.txt",
@@ -64,7 +65,8 @@
         "https://raw.githubusercontent.com/FifzzSENZE/Master-Proxy/refs/heads/master/proxies/socks4.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/anonymous-proxylist/socks4.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/proxylist/socks4.txt",
-        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/socks4.txt"
+        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/socks4.txt",
+        "https://rcloak.com/api/proxies/raw?protocol=all"
             ],
     "socks5": [
         "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/socks5.txt",
@@ -91,6 +93,7 @@
         "https://raw.githubusercontent.com/FifzzSENZE/Master-Proxy/refs/heads/master/proxies/socks5.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/anonymous-proxylist/socks5.txt",
         "https://raw.githubusercontent.com/iniridwanul/Hoot/refs/heads/master/proxylist/socks5.txt",
-        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/socks5.txt"
+        "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/checked_proxies/socks5.txt",
+        "https://rcloak.com/api/proxies/raw?protocol=all"
             ]
 }
